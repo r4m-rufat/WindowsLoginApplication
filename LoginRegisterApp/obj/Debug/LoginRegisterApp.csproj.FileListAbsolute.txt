@@ -1,0 +1,12 @@
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\bin\Debug\LoginRegisterApp.exe.config
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\bin\Debug\LoginRegisterApp.exe
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\bin\Debug\LoginRegisterApp.pdb
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.csproj.AssemblyReference.cache
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.Dashboard.resources
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.UserLogin.resources
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.Properties.Resources.resources
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.UserRegister.resources
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.csproj.GenerateResource.cache
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.csproj.CoreCompileInputs.cache
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.exe
+C:\Users\rufet\Desktop\LoginRegisterApp\LoginRegisterApp\obj\Debug\LoginRegisterApp.pdb
